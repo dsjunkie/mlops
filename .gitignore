@@ -1,0 +1,32 @@
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore local development files
+.vscode/
+*.DS_Store
+
+# Ignore data files (except processed/synthetic CSVs you need)
+data/raw/*
+data/processed/*.csv
+data/synthetic_healthcare_claims.csv
+
+# Ignore Airflow logs
+logs/
+dags/__pycache__/
+
+# Ignore Docker artifacts
+*.pid
+*.log
+.dockerignore
+
+# Ignore any other temp files
+*.tmp
+*.swp
+
+# Ignore dbt generated artifacts
+dbt/target/
