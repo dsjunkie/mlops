@@ -1,0 +1,6 @@
+datarobot
+pandas
+apache-airflow
+mlflow
+flask
+dvc

@@ -1,0 +1,9 @@
+name: 'consultation_claims_project'
+version: '1.0'
+profile: 'your_profile'
+
+models:
+  consultation_claims_project:
+    +schema: analytics
+    consultation_claims:
+      materialized: view
