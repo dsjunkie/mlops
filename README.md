@@ -1,1 +1,4 @@
 # mlops
+
+export DATAROBOT_API_TOKEN='Njc0NzY3Y2UzMjhhOWJiZTA4MzViYzc5Okw4YWFLeTIyVVI0Mm0veWN4elkrSDlkTjRlaXRlcTNoOHUrSnZ4anhRL289'
+export DATAROBOT_ENDPOINT=https://app.datarobot.com/api/v2

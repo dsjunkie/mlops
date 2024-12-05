@@ -30,3 +30,5 @@ dags/__pycache__/
 
 # Ignore dbt generated artifacts
 dbt/target/
+
+Desktop
